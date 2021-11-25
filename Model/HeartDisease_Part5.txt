@@ -4,4 +4,4 @@ Q: Building the best Predicting-Engine based on the best performing data mining 
 
 Regarding the Heart Disease Dataset, through the many Classification method, the best approach towards this classification problem is through the use of Decision Trees. Amongs the many classification methods, the best performing one is still the decision tree, after hyper-parameter tuning. 
 
-The research question would be to build a Prediction System, based on the best data mining method. 
+The problem here is that it's not at its maximum automating potential. The model should able to automate through different types of Classification method, and solve the classification issue with automatic hyper parameter tuning, to find its best fit.
